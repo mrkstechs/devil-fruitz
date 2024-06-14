@@ -1,0 +1,11 @@
+{
+  "name": "devil-fruitz",
+  "version": "1.0.0",
+  "description": "A webapp showcasing Devil Fruits, the mythical fruit that grants the consumer an unknown ability from the One Piece Universe",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kelechi Okoli",
+  "license": "ISC"
+}
